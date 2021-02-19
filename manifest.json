@@ -1,7 +1,7 @@
 {
-  "name":"Service Time",
-  "short_name":"Service Time",
-  "start_url":"/",
+  "name":"Service Report",
+  "short_name":"Service Report",
+  "start_url":"https://forms.gle/ktKHjcBKtTrjcZqf7",
   "display":"standalone",
   "theme_color":"#803beb",
   "background_color":"#803beb",
