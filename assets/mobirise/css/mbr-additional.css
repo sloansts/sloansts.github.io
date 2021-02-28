@@ -1142,6 +1142,35 @@ a {
     left: -1rem;
   }
 }
+.cid-sqmlAwWnlq {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffb5b5;
+}
+.cid-sqmlAwWnlq [class^="socicon-"]:before,
+.cid-sqmlAwWnlq [class*=" socicon-"]:before {
+  line-height: 55px;
+}
+.cid-sqmlAwWnlq .btn-social {
+  font-size: 32px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  padding: 0;
+  position: relative;
+  cursor: pointer;
+  color: #6592e6;
+  border-width: 2px;
+  transition: all .3s;
+  border-color: #6592e6;
+}
+.cid-sqmlAwWnlq .btn-social:hover {
+  background: #6592e6;
+}
+.cid-sqmlAwWnlq .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
 #custom-html-1 {
   /* Type valid CSS here */
 }
